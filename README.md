@@ -45,3 +45,9 @@
 - Score가 1000이상이 되었을 떄, 쉼표가 찍히도록 하였습니다.
 - 시간이 종료되면 모든 스레드를 종료하도록 만들었습니다.
 
+<br>
+<br>
+
+## 시연 영상
+
+https://user-images.githubusercontent.com/104834390/211586953-cba93ec2-2bb8-4a3c-8db0-8ab38fd70844.mov
